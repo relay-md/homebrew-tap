@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo "Relay CLI placeholder. The real CLI is in development."
+echo "See https://relay.md"
