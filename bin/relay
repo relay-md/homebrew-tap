@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-echo "Relay CLI placeholder. The real CLI is in development."
-echo "See https://relay.md"
+echo "Relay CLI v0.0.3 — prototype build, under construction."
+echo ""
+echo "The real CLI ships soon. Track progress: https://relay.md/agents"
+echo "Install instructions: https://get.relay.md"
